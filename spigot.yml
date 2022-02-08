@@ -115,6 +115,8 @@ world-settings:
       tile: 50
       entity: 50
     end-portal-sound-radius: 0
+  worldeditregentempworld:
+    verbose: false
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
